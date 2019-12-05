@@ -1,0 +1,45 @@
+body {
+    font-family: arial, helvetica;
+    color: gray;
+    font-size: small;
+    text-align: center;
+}
+
+p {
+    color: gray;
+    font: arial, helvetica;
+}
+
+table {
+    width: 100%;
+    font-family: ;: arial, helvetica;
+}
+
+li {
+    float: left;
+  }
+
+  a {
+    display: block;
+    padding: 8px;
+    color: gray;
+  }
+
+  ul {
+    top: 0;
+    width: 100%;
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+  }
+
+  #top {
+      top: 0;
+  }
+
+  #bottom {
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+  }
